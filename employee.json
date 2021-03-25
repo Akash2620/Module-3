@@ -1,0 +1,59 @@
+{
+    "employees": [
+        {
+            "id": 1,
+            "name": "Akash",
+            "designation": "Trainer",
+            "address": {
+                "city": "New York",
+                "country": "India",
+                "zipcode": 456789
+            },
+            "projectId": "101"
+        },
+        {
+            "id": 2,
+            "name": "Shreya",
+            "designation": "Software eng",
+            "address": {
+                "city": "Chicago",
+                "country": "USA",
+                "zipcode": 1234
+            },
+            "projectId": "102"
+        },
+        {
+            "id": 3,
+            "name": "Tanu",
+            "designation": "Sr. Software Eng",
+            "address": {
+                "city": "Texas",
+                "country": "USA",
+                "zipcode": 2345
+            },
+            "projectId": "103"
+        },
+        {
+            "id": 4,
+            "name": "Ap",
+            "designation": "Manager",
+            "address": {
+                "city": "Nevada",
+                "country": "USA",
+                "zipcode": 7634
+            },
+            "projectId": "104"
+        },
+        {
+            "id": 5,
+            "name": "Sam",
+            "designation": "Software Developer",
+            "address": {
+                "city": "NJ",
+                "country": "Canada",
+                "zipcode": 7085
+            },
+            "projectId": "105"
+        }
+    ]
+}
